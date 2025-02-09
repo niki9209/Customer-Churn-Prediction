@@ -12,7 +12,7 @@
 
 **MENTOR NAME**: NEELA SANTHOSH KUMAR
 
-**Overview**:
+Overview:
     Customer churn, or customer attrition, refers to when a customer ceases their relationship
  with a company or service provider. In today's highly competitive business environment,
  retaining customers is a critical factor for long-term success. Predicting customer churn can
@@ -20,7 +20,7 @@
  This project aims to build a machine learning model that can predict whether a customer will
  churn based on their demographic, account, and service-related data.
 
- ** Problem Statement**:
+  Problem Statement:
     The goal of this project is to develop a classification model that predicts whether a customer
  will churn. Using demographic data (such as gender, senior citizen status, and tenure), along
  with information about the services they use (such as internet service, phone service, and
@@ -29,6 +29,6 @@
  By predicting customer churn, the company can proactively design retention strategies to
  keep these customers, thereby improving customer satisfaction and reducing financial loss.
 
- ** Tools Required**: 
-  Python (with libraries such as pandas, scikit-learn, matplotlib, seaborn, etc.)
- ● Jupyter Notebook 
+ Tools Required: 
+1. Python (with libraries such as pandas, scikit-learn, matplotlib, seaborn, etc.)
+2.  Jupyter Notebook 
